@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269886478890",
+    "project_id": "mystry-mind",
+    "storage_bucket": "mystry-mind.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269886478890:android:4284c2a899460d4837c153",
+        "android_client_info": {
+          "package_name": "com.example.mystrymind_internship_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxy-baBa1827Qa-SsiY75CBLaGZjcvoKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
